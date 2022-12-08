@@ -1,0 +1,11 @@
+C:\C#\Todeschini\VerificarArquivosEmPastas\bin\Debug\VerificarArquivosEmPastas.exe.config
+C:\C#\Todeschini\VerificarArquivosEmPastas\bin\Debug\VerificarArquivosEmPastas.exe
+C:\C#\Todeschini\VerificarArquivosEmPastas\bin\Debug\VerificarArquivosEmPastas.pdb
+C:\C#\Todeschini\VerificarArquivosEmPastas\obj\Debug\VerificarArquivosEmPastas.csproj.AssemblyReference.cache
+C:\C#\Todeschini\VerificarArquivosEmPastas\obj\Debug\VerificarArquivosEmPastas.csproj.SuggestedBindingRedirects.cache
+C:\C#\Todeschini\VerificarArquivosEmPastas\obj\Debug\VerificarArquivosEmPastas.frmPrincipal.resources
+C:\C#\Todeschini\VerificarArquivosEmPastas\obj\Debug\VerificarArquivosEmPastas.Properties.Resources.resources
+C:\C#\Todeschini\VerificarArquivosEmPastas\obj\Debug\VerificarArquivosEmPastas.csproj.GenerateResource.cache
+C:\C#\Todeschini\VerificarArquivosEmPastas\obj\Debug\VerificarArquivosEmPastas.csproj.CoreCompileInputs.cache
+C:\C#\Todeschini\VerificarArquivosEmPastas\obj\Debug\VerificarArquivosEmPastas.exe
+C:\C#\Todeschini\VerificarArquivosEmPastas\obj\Debug\VerificarArquivosEmPastas.pdb
